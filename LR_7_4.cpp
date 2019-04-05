@@ -2,10 +2,11 @@
 Задача 7 . 4. Относительно класса coord (См. Unit7 "Overloading The 
 Relational And Logical
 Operators") перегрузите операторы отношения < и >.
----------------------------------------------------------------------------*/
+*/
 #include <iostream>
 using namespace std;
-
+//comint 1
+//comint 2
 class coord {
     int x, y;
 public:
